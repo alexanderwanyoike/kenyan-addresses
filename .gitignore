@@ -1,0 +1,6 @@
+bin
+include
+lib
+.idea
+output.json
+pyvenv.cfg
